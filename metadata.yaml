@@ -1,0 +1,47 @@
+_repo: The-Colloquies-of-Erasmus-Volume-I._14031
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bailey, N. (Nathan)
+    aliases:
+    - Bailey, Nathaniel
+    - Bayley, N. (Nathan)
+    - Bailey, Nathan
+    deathdate: 1742
+    gutenberg_agent_id: '36641'
+    url: http://www.gutenberg.org/2009/agents/36641
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+  editor:
+    agent_name: Johnson, E. (Edwin)
+    alias: Johnson, Edwin
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '39617'
+    url: http://www.gutenberg.org/2009/agents/39617
+description: ''
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Didactic literature, Latin (Medieval and modern) -- Translations into English'
+- !lcsh 'Imaginary conversations'
+- !lcsh 'Dialogues, Latin (Medieval and modern) -- Translations into English'
+title: The Colloquies of Erasmus, Volume I.
+url: http://www.gutenberg.org/ebooks/14031
