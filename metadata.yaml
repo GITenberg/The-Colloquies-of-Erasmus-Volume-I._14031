@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '39617'
     url: http://www.gutenberg.org/2009/agents/39617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14031#The-Colloquies-of-Erasmus-Volume-I.
 gutenberg_issued: '2004-11-12'
 gutenberg_type: Text
 identifiers:
